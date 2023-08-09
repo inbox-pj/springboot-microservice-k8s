@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <groupId>com.clover.services</groupId>
-        <artifactId>pringboot-microservices-kubernetes</artifactId>
+        <artifactId>springboot-microservices-kubernetes</artifactId>
         <version>1.1</version>
     </parent>
 

@@ -1,4 +1,4 @@
-# Microservices with Spring Boot and Spring Cloud on Kubernetes Demo Project 
+# Microservices with Spring Boot and Spring Cloud on Kubernetes
 
 
 ## Getting Started 
